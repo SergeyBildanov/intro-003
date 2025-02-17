@@ -1,6 +1,18 @@
 # Домашняя работа, Задача 3, Laravel
 ## Перечислите список composer-пакетов, которые использует фреймворк Laravel после установки.
-
+1. require-dev
+- facade/ignition
+- fakerphp/faker
+- laravel/sail
+- mockery/mockery
+- nunomaduro/collision
+- phpunit/phpunit
+2. require
+- fruitcake/laravel-cors
+- guzzlehttp/guzzle
+- laravel/framework
+- laravel/sanctum
+- laravel/tinker
 
 ## Изучите директорию config и опишите какие файлы хранятся в этой директории.
 - app.php – конфигурационный файл приложения 
